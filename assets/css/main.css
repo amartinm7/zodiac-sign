@@ -1,6 +1,80 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
 
+
+.sprite-aries {
+	background: url('../../images/sign-icons.png') no-repeat -29px -45px;
+	width: 100px;
+	height: 70px;
+}
+
+.sprite-taurus {
+	background: url('../../images/sign-icons.png') no-repeat -198px -42px;
+	width: 82px;
+	height: 76px;
+}
+
+.sprite-gemini {
+	background: url('../../images/sign-icons.png') no-repeat -372px -40px;
+	width: 60px;
+	height: 79px;
+}
+
+.sprite-cancer {
+	background: url('../../images/sign-icons.png') no-repeat -525px -40px;
+	width: 84px;
+	height: 73px;
+}
+
+.sprite-leo {
+	background: url('../../images/sign-icons.png') no-repeat -29px -252px;
+	width: 92px;
+	height: 77px;
+}
+
+.sprite-virgo {
+	background: url('../../images/sign-icons.png') no-repeat -200px -258px;
+	width: 86px;
+	height: 61px;
+}
+
+.sprite-libra {
+	background: url('../../images/sign-icons.png') no-repeat -356px -261px;
+	width: 91px;
+	height: 50px;
+}
+
+.sprite-scorpio {
+	background: url('../../images/sign-icons.png') no-repeat -534px -254px;
+	width: 72px;
+	height: 73px;
+}
+
+.sprite-sagittarius {
+	background: url('../../images/sign-icons.png') no-repeat -40px -477px;
+	width: 68px;
+	height: 66px;
+}
+
+.sprite-capricorn {
+	background: url('../../images/sign-icons.png') no-repeat -211px -472px;
+	width: 57px;
+	height: 81px;
+}
+
+.sprite-aquarius {
+	background: url('../../images/sign-icons.png') no-repeat -358px -491px;
+	width: 94px;
+	height: 40px;
+}
+
+.sprite-pisces {
+	background: url('../../images/sign-icons.png') no-repeat -541px -474px;
+	width: 60px;
+	height: 69px;
+}
+
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -8570,3 +8644,5 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+
