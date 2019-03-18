@@ -69,3 +69,14 @@
     width: 60px;
     height: 69px;
 }
+
+
+.rotateImage {
+    overflow: hidden;
+    transition-duration: 0.9s;
+    transition-property: transform;
+}
+.rotateImage:hover {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+}
